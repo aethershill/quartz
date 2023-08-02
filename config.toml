@@ -5,7 +5,7 @@ disablePathToLower = true
 ignoreFiles = [
     "/content/templates/*",
     "/content/Projects/private/*",
-    "/content/⛩️ Areas/❤️ self development/*",
+    "/content/⛩️ Areas/❤️ self development/reflections/*",
 ]
 summaryLength = 20
 paginate = 10
