@@ -4,7 +4,7 @@ relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
     "/content/templates/*",
-    "/content/Projects/private/*",
+    "/content/Projects/private",
     "/content/Areas/self development/reflections/*",
 ]
 summaryLength = 20
