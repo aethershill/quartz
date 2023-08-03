@@ -1,27 +1,12 @@
 ---
-title: "🪴 Quartz 3.3"
+title: "Aether's Hill"
 enableToc: true
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+I've always been enamored by the idea of having my own personal website. 
+Never quite knowing what to do with one, I'd always wasted time and procrastinated the idea. 
 
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+That is until recently, where I stumbled upon the idea of a [[Projects/20230806 Build Digital Garden Foundation/20230730 Digital Garden|20230730 Digital Garden]].
+Closely related is a rabbit whole of productivity/systems like PARA and [[Projects/20230806 Build Digital Garden Foundation/20230803 Second Brain|20230803 Second Brain]] that has opened up a whole new idea of what my site could look like. 
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
-
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
-
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
-
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
-
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
-
+As such, here lies the beginning of my personal wiki. The place where all of the knowledge and experience I have and will continue to accumulate will come together.

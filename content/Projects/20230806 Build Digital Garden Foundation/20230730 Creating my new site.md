@@ -1,5 +1,5 @@
 ---
-title: "{{Creating My Own Site}}"
+title: "Creating My Own Site"
 ---
 
 7/29/23

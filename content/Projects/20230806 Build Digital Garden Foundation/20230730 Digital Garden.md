@@ -1,4 +1,4 @@
 ---
-title: "{{Digital Garden}}"
+title: "Digital Garden"
 ---
 alt.
