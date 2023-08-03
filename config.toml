@@ -1,11 +1,11 @@
-baseURL = "https://quartz.aethershill.com/quartz/"
+baseURL = "https://quartz.aethershill.com/"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
     "/content/templates/*",
     "/content/Projects/private/*",
-    "/content/⛩️ Areas/❤️ self development/reflections/*",
+    "/content/Areas/self development/reflections/*",
 ]
 summaryLength = 20
 paginate = 10
