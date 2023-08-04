@@ -11,7 +11,7 @@ Some of the graphs I'm seeing really illustrates the links between different ide
 
 In order to start, I'm doing more and more research. 
 
-I've decided on using [[Resources/wiki/productivity/Obsidian]] as my editor as I think it has the most capability for creating the backlinks needed? It looks clean and I from my understanding it works well with [[Areas/blog/Quartz]].
+I've decided on using [[Resource/wiki/productivity/Obsidian]] as my editor as I think it has the most capability for creating the backlinks needed? It looks clean and I from my understanding it works well with [[Areas/blog/Quartz]].
 
 The primary inspiration for my garden is: https://www.ssp.sh/brain// 
 I feel like the structure of the site can act as a good foundation/example for what mine could be.
