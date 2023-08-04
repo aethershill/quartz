@@ -1,6 +1,0 @@
----
-title: "Obsidian"
----
-
-A note taking app that easily allows the ability to create backlinks to different notes.
-https://obsidian.md/community
