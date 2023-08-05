@@ -7,7 +7,7 @@ PARA stands for:
 	Resource
 	Archive
 
-The different categories can be determined based on [[Resource/wiki/productivity/Actionability]].
+The different categories can be determined based on [[Resource/wiki/productivity/Actionability|Actionability]].
 
 Projects are the most actionable and have a deadline.
 

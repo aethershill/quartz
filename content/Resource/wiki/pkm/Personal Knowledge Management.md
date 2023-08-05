@@ -2,7 +2,7 @@
 title: "Personal Knowledge Management"
 ---
 
-A combination of [[Resource/wiki/pkm/Personal Information Management|Personal Information Management]]PIM) and [[Resource/wiki/pkm/Knowledge Management|Knowledge Management]](KM).
+A combination of [[Resource/wiki/pkm/Personal Information Management|Personal Information Management]](PIM) and [[Resource/wiki/pkm/Knowledge Management|Knowledge Management]](KM).
 
 Things to note: 
 
