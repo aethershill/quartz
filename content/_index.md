@@ -10,3 +10,5 @@ That is until recently, where I stumbled upon the idea of a [[Areas/blog/Digital
 Closely related is a rabbit whole of productivity/systems like [[Resource/wiki/productivity/PARA|PARA]] and [[Areas/blog/Second Brain|Second Brain]] that has opened up a whole new idea of what my site could look like. 
 
 As such, here lies the beginning of my personal wiki. The place where all of the knowledge and experience I have and will continue to accumulate will come together.
+
+[[Areas/blog/Blog|Blog]]
