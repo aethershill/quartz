@@ -1,5 +1,7 @@
 ---
 title: "Humble Beginnings"
+tags: 
+- blogging
 ---
 
 08/03/21

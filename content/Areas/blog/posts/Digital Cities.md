@@ -1,5 +1,7 @@
 ---
 title: "Digital Cities"
+tags:
+- blogging
 ---
 Growing up, I had an idea for a website. 
 

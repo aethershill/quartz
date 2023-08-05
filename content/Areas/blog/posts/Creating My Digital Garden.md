@@ -1,5 +1,7 @@
 ---
 title: "Creating My Digital Garden"
+tags:
+- blogging
 ---
 
 7/29/23
