@@ -11,3 +11,4 @@ In the example, given by [[Resource/wiki/web design/Hugo|Hugo]], of a movie site
 	Year
 	Awards
 
+You would then be able to look up the

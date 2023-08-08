@@ -11,4 +11,4 @@ Closely related is a rabbit whole of productivity/systems like [[Resource/wiki/p
 
 As such, here lies the beginning of my personal wiki. The place where all of the knowledge and experience I have and will continue to accumulate will come together.
 
-[[Areas/blog/_index|_index]]
+[Blog]({{< ref "/Areas/blog/_index">}} "Blog"0).
