@@ -1,5 +1,5 @@
 ---
-title: "Structuringt the Garden"
+title: "Structuring the Garden"
 tags: 
 - blogging
 ---
