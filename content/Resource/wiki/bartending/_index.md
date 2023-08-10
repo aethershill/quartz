@@ -1,4 +1,5 @@
 ---
 title: "Bartending"
-aliases: Bartending
+aliases: 
+- Bartending
 ---
