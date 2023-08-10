@@ -1,7 +1,5 @@
 ---
 title: "Blog"
-aliases:
-- Blog
 ---
 Blog posts in reverse-chronologic order I think.
 
