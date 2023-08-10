@@ -15,6 +15,7 @@ As such, here lies the beginning of my personal wiki. The place where all of the
 
 ## MOC - 
 | Categories | 
+| ----------- |
 | [[Resource/wiki/bartending/_index|Bartending]] | 
 | [[Areas/self development/_index|Self Development]] |
 | [[Resource/wiki/pkm/_index|Personal Knowledge Management]] |
