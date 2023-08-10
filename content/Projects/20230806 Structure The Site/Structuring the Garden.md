@@ -15,8 +15,7 @@ In order to do these two things, I need to figure out how to properly customize/
 
 Currently reading: https://gohugo.io/content-management/taxonomies/ on [[Resource/wiki/web design/Taxonomies|Taxonomies]]. 
 
-Appears that taxonomies would be useful for the wiki, but not for easier access to blog/posts. 
-> This turned out to be a dead end. Did not end up needing to go into taxonomies at all, maybe at a future date.
+Appears that taxonomies would be useful for the wiki, but not for easier access to blog/posts.^[This turned out to be a dead end. Did not end up needing to go into taxonomies at all, maybe at a future date.]
 
 My temporary measure for accessing the blog is to just have a link on my main page to the blog. 
 Hugo allows you to create index pages if you title the file `_index`. 
@@ -29,11 +28,13 @@ initially, I attempted to use Hugo markdown to create a hyperlink named Blog but
 
 The next thing I figured out was that where hugo stores markdown meta info, I can create taggable aliases. 
 In my index page for the blog posts the beginning of my post looks like this: 
-`---
+
+```
 title: "Blog"
 aliases:
 - Blog
----`
+```
+
 This works with Obisidian, so using Obsidians linking feature I am able to create a link to `/Areas/blog/_index` with ease.
 
 The next problem arises with tables. I am able to create tables, but it looks like internal links (at least the way Obsidian does links, markdown and wikilinks) are broken when inside tables. 
