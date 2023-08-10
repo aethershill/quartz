@@ -16,8 +16,8 @@ As such, here lies the beginning of my personal wiki. The place where all of the
 ## MOC - 
 | Categories | 
 | ----------- |
-| [Bartending](Resource/wiki/bartending/_index.md) |
-| [Self Development](Areas/self%20development/_index.md) |
-| [Personal Knowledge Management](Resource/wiki/pkm/_index.md) |
-| [Productivity](Resource/wiki/productivity/_index.md) |
-| [Web Design](Resource/wiki/web%20design/_index.md) |
+| [Bartending](Resource/wiki/bartending/_index/#) |
+| [Self Development](Areas/self%20development/_index/#) |
+| [Personal Knowledge Management](Resource/wiki/pkm/_index/#) |
+| [Productivity](Resource/wiki/productivity/_index/#) |
+| [Web Design](Resource/wiki/web%20design/_index/#) |
