@@ -1,5 +1,6 @@
 ---
 title: "Structuring the Garden"
+enableToc: true
 tags: 
 - blogging
 ---
@@ -56,3 +57,6 @@ Looking back the reason why this didn't work immediately comes to mind but stump
 In the end linking to the folder itself was the solution I needed the entire time. 
 Linking to the folder will automatically direct you to the index page with a clean URL structure. 
 This extra understanding leads me to think I can drop the Aliases from the blog post and just link to my blog folder, save a few bytes or kb.
+
+As a little test, I decided to try remove index.md from Web Design to see if linking to the folder would still work. As I should have remembered from when I first started messing around with websites, no.
+

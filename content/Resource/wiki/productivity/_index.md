@@ -1,5 +1,3 @@
 ---
 title: "Productivity"
-aliases: 
-- Productivity
 ---
