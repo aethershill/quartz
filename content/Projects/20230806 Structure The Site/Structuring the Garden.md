@@ -4,6 +4,7 @@ tags:
 - blogging
 ---
 
+## First Thoughts
 Some of my first thoughts on how I want this to look:
 
 I really like the Map of Content from https://www.ssp.sh/brain// so figuring out how to do something similar would be ideal. 
@@ -35,3 +36,4 @@ aliases:
 ---`
 This works with Obisidian, so using Obsidians linking feature I am able to create a link to `/Areas/blog/_index` with ease.
 
+The next problem arises with tables. I am able to create tables, but it looks like internal links (at least the way Obsidian does links, markdown and wikilinks) are broken when inside tables. 
