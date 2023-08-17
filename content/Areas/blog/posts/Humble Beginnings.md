@@ -16,4 +16,4 @@ For anyone that decides to create their own [[Resource/wiki/web design/Digital G
 
 From this point forward it "should" be smooth sailing. Just need to decide how to structure content and what kind of stuff I want to publish. Basically, I need time and to mess around to break and then fix things.
 
-Next for me to figure out how I'm [[Projects/20230806 Structure The Site/Structuring the Garden|Structuring the Garden]]. 
+Next for me to figure out how I'm [[Areas/blog/posts/Structuring the Garden|Structuring the Garden]]. 
