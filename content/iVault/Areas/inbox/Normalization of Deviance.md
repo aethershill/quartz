@@ -1,0 +1,1 @@
+[https://en.wikipedia.org/wiki/Normalization_of_deviance](https://en.wikipedia.org/wiki/Normalization_of_deviance)
