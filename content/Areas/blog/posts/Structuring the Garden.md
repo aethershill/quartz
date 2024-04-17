@@ -15,7 +15,7 @@ I also want to include a blog hyperlink in the header, to make it easier to acce
 
 In order to do these two things, I need to figure out how to properly customize/format inside of [[Areas/blog/posts/Humble Beginnings|Humble Beginnings]]/[[Resource/wiki/web design/Quartz|Quartz]]. I believe this requires me to learn more about [[Resource/wiki/web design/Hugo|Hugo]]?
 
-Currently reading: https://gohugo.io/content-management/taxonomies/ on [[Resource/wiki/web design/Taxonomies|Taxonomies]]. 
+Currently reading: https://gohugo.io/content-management/taxonomies/ on [[Resource/wiki/pkm/Taxonomies|Taxonomies]]. 
 
 Appears that taxonomies would be useful for the wiki, but not for easier access to blog/posts. ^[This turned out to be a dead end. Did not end up needing to go into taxonomies at all, maybe at a future date]
 

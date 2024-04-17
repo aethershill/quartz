@@ -15,13 +15,13 @@ As such, here lies the beginning of my personal wiki. The place where all of the
 [[Recent Notes]]
 
 ## Map of Content -
-| Categories | Topics |
-| ---- | ---- |
-| [Bartending](Areas/bartending/_index.md) | [Spirits](Areas/bartending/Spirits/Spirit.md), [[Wine]], [whisky](Areas/bartending/Whiskey/Whiskey.md) |
-| [Inbox](/Areas/inbox/_index) |  |
-| [Personal Knowledge Management](Resource/wiki/pkm/_index.md) | [Digital Garden](Resource/wiki/web%20design/Digital%20Garden.md), [Second Brain](Resource/wiki/pkm/Second%20Brain.md) |
-| [Productivity](Resource/wiki/productivity/_index.md) | [PARA](Resource/wiki/productivity/PARA.md) |
-| [Reading & Listening](Areas/reading%20and%20listening/_index.md) |  |
-| [Self Development](Areas/self%20development/_index.md) |  |
-| [Storytelling](Resource/wiki/storytelling/_index.md) |  |
-| [Web Design](Resource/wiki/web%20design/_index.md) |  |
+| Categories                                                       | Topics                                                                                                                                                       |
+| ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Bartending](Areas/bartending/_index.md)                         | [Spirits](Areas/bartending/Spirits/Spirit.md), [[Wine]], [whisky](Areas/bartending/Whiskey/Whiskey.md)                                                       |
+| [Inbox](/Areas/inbox/_index)                                     |                                                                                                                                                              |
+| [Personal Knowledge Management](Resource/wiki/pkm/_index.md)     | [Second Brain](Resource/wiki/pkm/Second%20Brain.md), [Taxonomies](Resource/wiki/pkm/Taxonomies.md)                                                           |
+| [Productivity](Resource/wiki/productivity/_index.md)             | [PARA](Resource/wiki/productivity/PARA.md)                                                                                                                   |
+| [Reading & Listening](Areas/reading%20and%20listening/_index.md) |                                                                                                                                                              |
+| [Self Development](Areas/self%20development/_index.md)           |                                                                                                                                                              |
+| [Storytelling](Resource/wiki/storytelling/_index.md)             |                                                                                                                                                              |
+| [Web Design](Resource/wiki/web%20design/_index.md)               | [Digital Garden](Resource/wiki/web%20design/Digital%20Garden.md), [Hugo](Resource/wiki/web%20design/Hugo.md), [Quartz](Resource/wiki/web%20design/Quartz.md) |

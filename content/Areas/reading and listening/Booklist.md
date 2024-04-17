@@ -6,11 +6,14 @@ tags:
 ---
 ### Currently Reading:
 Fiction:
-[[East of Eden]] - Steinbeck
+
 
 Nonfiction:
-[[The Wine Bible]] - Karen Macneil
+The Definitive Guide of Human Body Language
 
+### Shelved: 
+[[East of Eden]] - Steinbeck
+[[The Wine Bible]] - Karen Macneil
 ### To Read:
 Authors -
 Kurt Vonneget
@@ -47,3 +50,4 @@ Poetry -
 
 ### Read:
 [[In the Blink of an Eye]] by Walter Murch
+[[The Joy Of Mixology]]

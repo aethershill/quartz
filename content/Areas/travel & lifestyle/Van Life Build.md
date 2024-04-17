@@ -5,6 +5,8 @@ tags:
   - VanLife
   - ideas/sprout
 ---
+https://www.youtube.com/watch?v=yXqrLcRuurs
+
 Personal thoughts:
 Originally thought I might try to find a used van for a slight discount, but it looks like the cost isn't that much cheaper. 
 Hard considering buying brand new.
