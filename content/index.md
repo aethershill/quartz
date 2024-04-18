@@ -1,5 +1,5 @@
 ---
-title: Memento Nori
+title: 
 enableToc: true
 ---
 

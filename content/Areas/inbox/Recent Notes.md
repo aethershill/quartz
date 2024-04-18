@@ -2,6 +2,11 @@
 title: Recent Notes
 creation date: 2024-01-26
 ---
+
+[Reference Notes](Resource/wiki/pkm/Reference%20Notes.md) (2024-04-18)
+[Literature Notes](Resource/wiki/pkm/Literature%20Notes.md) (2024-04-18)
+[Atomic Notes](Resource/wiki/pkm/Atomic%20Notes.md) (2024-04-18)
+[zettelkasten](Resource/zettelkasten/_index.md) (2024-04-18)
 [Thoughts on Becoming the Best](Areas/bartending/Thoughts%20on%20Becoming%20the%20Best.md) (2024-04-17)
 [Bartending Reflection Winter 2023-2024](Areas/blog/posts/Bartending%20Reflection%20Winter%202023-2024.md) (2024-04-15)
 [Oil Prices Precede Most Recessions](Resource/wiki/finance/Oil%20Prices%20Precede%20Most%20Recessions.md) (2024-04-15)

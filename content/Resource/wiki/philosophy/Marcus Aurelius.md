@@ -6,4 +6,5 @@ tags:
   - philosophy/philosophier
   - philosophy/stoicism
 ---
-
+# Works:
+[[Meditations]]

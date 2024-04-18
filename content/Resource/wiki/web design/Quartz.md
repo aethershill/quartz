@@ -6,5 +6,5 @@ tags:
 ---
 I'm not entirely sure what Quartz does. 
 It might be a static site generator with digital gardens as a focus?
-Meant to be used with [[Resource/wiki/productivity/Obsidian]].
+Meant to be used with [Obsidian](Resource/wiki/productivity/Obsidian.md).
 https://quartz.jzhao.xyz
