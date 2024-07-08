@@ -9,7 +9,7 @@ I want to be more than proficient in all skillsets.
 Lacking in no area, but maybe not the best in each individual category/skillset. 
 Able to jump in to whatever void needs to be filled at the bars I work at.
 
-So far I've settled that to really pursue this goal, I need to do more research and studying. I can't settle for the cruising I've done so far. 
+So far I've realized that to really pursue this goal, I need to do more research and studying. I can't settle for the cruising I've done so far. 
 As I've noted in [Bartending Reflection Winter 2023-2024](Areas/blog/posts/Bartending%20Reflection%20Winter%202023-2024.md) while I thought I was good, and maybe I was, I'm not where I could be.
 
 I have a lot of studying to do.
