@@ -1,6 +1,8 @@
 ---
 title: Memento Nori
 enableToc: true
+modified:
+  - 2024-09-24T16:13:47-05:00
 ---
 
 I've always been enamored by the idea of having my own personal website. 
