@@ -2,7 +2,7 @@
 title: In the Blink of an Eye
 creation date: 2023-10-29
 tags:
-  - Hobby/Books/Read
+  - Hobby/Books/Status/Read
 ---
 A transcription of a lecture on film [[editing]] by Walter Murch at Spectrum Films, Sydney, Australia in October 1988.
 

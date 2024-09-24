@@ -56,4 +56,5 @@ Accessories:
 Ring(s)
 Necklace
 Earrings
-Nice bel
+Nice belt
+Nice belt

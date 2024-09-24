@@ -35,3 +35,6 @@ Lower
 Highest setting
 Mid Setting
 Lowest setting
+
+
+https://www.reddit.com/r/vandwellers/comments/1bo799m/i_met_a_skier_living_out_of_his_selfbuilt_van_for/
