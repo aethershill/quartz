@@ -27,7 +27,13 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer({
+      filterFn: (node) => {
+        // set containing names of everything you want to filter out
+        const omit = new Set(["Archive"])
+        return !omit.has(node.name.toLowerCase())
+      },
+    })),
   ],
   right: [
     Component.Graph(),
