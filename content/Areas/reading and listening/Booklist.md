@@ -20,6 +20,11 @@ Authors -
 Kurt Vonneget
 Camus
 
+Naseeb tolieb - the black swan
+Antifragile
+
+Neval rabikaan
+
 Books -
 Ego Is The Enemy by Ryan Holiday
 Can't Hurt Me by David Goggins
@@ -42,6 +47,7 @@ East of Eden
 A monster calls
 The Name of the Wind by Patrick Rothfuss (recommended by bob)
 Roundbuilding (Bartending book)
+The moustache
 
 Series -
 The Faithful and the Fallen - John Gwynne  (recommended by bob)
