@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     },
     baseUrl: "mementonori.co",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "modified",
+    defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,

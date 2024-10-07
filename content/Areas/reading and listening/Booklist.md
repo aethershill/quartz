@@ -23,7 +23,7 @@ Camus
 Naseeb tolieb - the black swan
 Antifragile
 
-Neval rabikaan
+Neval rabikaan - the almanac of neval ravikaant
 
 Books -
 Ego Is The Enemy by Ryan Holiday
@@ -48,6 +48,9 @@ A monster calls
 The Name of the Wind by Patrick Rothfuss (recommended by bob)
 Roundbuilding (Bartending book)
 The moustache
+The posthumous memoirs of bras cubas
+As i lay dying - faulkner
+
 
 Series -
 The Faithful and the Fallen - John Gwynne  (recommended by bob)
