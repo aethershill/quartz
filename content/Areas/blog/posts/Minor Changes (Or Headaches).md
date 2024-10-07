@@ -1,9 +1,8 @@
 ---
 title: Minor Changes (Or Headaches)
-modified:
-  - 2024-10-03T23:15:49-07:00
-  - 2024-10-07T15:59:58-07:00
-  - 2024-10-07T16:26:18-07:00
+modified: 2024-10-07T16:39:39-07:00
+creation date: 2024-10-07T04:36:00
+created: 2024-10-07T16:33:54-07:00
 ---
 Tending to the garden that I've been neglecting for the summer. 
 
@@ -37,4 +36,10 @@ And then I changed line 54 to
 This worked for the main page. But did not update my recent notes component.
 
 And then I immediately realized that Dataview doesn't automatically render on the page. So my Recent Notes file on the published site, is just a weird comment block. Great.
+
+I realized that the date changed for my [main page](_index) but none of the other pages.
+Right now I'm checking to see if pages having a creation date in the frontmatter is affecting the dates. 
+This was not, and then I realized that my updated modified plugin is not working. Nevermind.
+
+The plugin is working.
 
