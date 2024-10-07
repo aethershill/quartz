@@ -4,7 +4,7 @@ creation date: 2024-10-07
 modified:
   - 2024-10-03T23:15:49-07:00
   - 2024-10-07T15:59:58-07:00
-  - 2024-10-07T16:09:20-07:00
+  - 2024-10-07T16:11:12-07:00
 ---
 Tending to the garden that I've been neglecting for the summer. 
 
@@ -23,4 +23,7 @@ Like fixing the god damn date on all of my notes.
 I've also installed the [Frontmatter Modified Date](https://github.com/alangrainger/obsidian-frontmatter-modified-date) plugin to update the modified date on each note. Which is nice as it lets me know when the last time I made a change to any notes was. It also plays into Dataview, giving me a field that updates on its own and Dataview can pull for the recent notes page.
 
 The extra stuff is whatever. But I seem to be stuck. I'm scouring the discord for any information that would help. 
-Looking at the [Modified Date](https://quartz.jzhao.xyz/plugins/CreatedModifiedDate) page I have changed the defaultDateType to modified. And have attempted to change the priority in the 
+Looking at the [Modified Date](https://quartz.jzhao.xyz/plugins/CreatedModifiedDate) page I have changed the defaultDateType to modified. And have attempted to change the priority in the plugin/lastmod.ts 
+Honestly I'm not sure if this is the right area to make the changes. I've tried giving filesystem priority. Did not work.
+Currently waiting for the process to resolve so I can see if giving git priority fixes my issue.
+
