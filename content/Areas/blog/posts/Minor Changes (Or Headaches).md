@@ -1,6 +1,5 @@
 ---
 title: Minor Changes (Or Headaches)
-creation date: 2024-10-07
 modified:
   - 2024-10-03T23:15:49-07:00
   - 2024-10-07T15:59:58-07:00
