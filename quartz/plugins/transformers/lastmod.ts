@@ -9,7 +9,7 @@ export interface Options {
 }
 
 const defaultOptions: Options = {
-  priority: ["git", "filesystem", "frontmatter"],
+  priority: ["frontmatter", "git", "filesystem"],
 }
 
 function coerceDate(fp: string, d: any): Date {
@@ -51,7 +51,7 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (u
                 created ||= file.data.frontmatter.date as MaybeDate
                 modified ||= file.data.frontmatter.lastmod as MaybeDate
                 modified ||= file.data.frontmatter.updated as MaybeDate
-                modified ||= file.data.frontmatter["last-modified"] as MaybeDate
+                modified ||= file.data.frontmatter["modified"] as MaybeDate
                 published ||= file.data.frontmatter.publishDate as MaybeDate
               } else if (source === "git") {
                 if (!repo) {
