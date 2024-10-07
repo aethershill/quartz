@@ -4,7 +4,7 @@ creation date: 2024-10-07
 modified:
   - 2024-10-03T23:15:49-07:00
   - 2024-10-07T15:59:58-07:00
-  - 2024-10-07T16:11:12-07:00
+  - 2024-10-07T16:26:18-07:00
 ---
 Tending to the garden that I've been neglecting for the summer. 
 
@@ -26,4 +26,16 @@ The extra stuff is whatever. But I seem to be stuck. I'm scouring the discord fo
 Looking at the [Modified Date](https://quartz.jzhao.xyz/plugins/CreatedModifiedDate) page I have changed the defaultDateType to modified. And have attempted to change the priority in the plugin/lastmod.ts 
 Honestly I'm not sure if this is the right area to make the changes. I've tried giving filesystem priority. Did not work.
 Currently waiting for the process to resolve so I can see if giving git priority fixes my issue.
+
+Those options didn't work.
+
+BUT I found a solution
+
+I did multiple things, I gave frontmatter priority in lastmod.ts
+And then I changed line 54 to 
+	`modified ||= file.data.frontmatter["modified"] as MaybeDate`
+
+This worked for the main page. But did not update my recent notes component.
+
+And then I immediately realized that Dataview doesn't automatically render on the page. So my Recent Notes file on the published site, is just a weird comment block. Great.
 
