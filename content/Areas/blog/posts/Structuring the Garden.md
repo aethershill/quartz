@@ -4,8 +4,9 @@ enableToc: true
 tags:
   - Blog
   - Blog/Published
+modified: 2024-10-07T16:42:05-07:00
+created: 2024-04-16T23:36:38-07:00
 ---
-
 ## First Thoughts
 Some of my first thoughts on how I want this to look:
 

@@ -1,7 +1,6 @@
 ---
 title: Minor Changes (Or Headaches)
-modified: 2024-10-07T16:39:39-07:00
-creation date: 2024-10-07T04:36:00
+modified: 2024-10-07T16:42:52-07:00
 created: 2024-10-07T16:33:54-07:00
 ---
 Tending to the garden that I've been neglecting for the summer. 
@@ -42,4 +41,8 @@ Right now I'm checking to see if pages having a creation date in the frontmatter
 This was not, and then I realized that my updated modified plugin is not working. Nevermind.
 
 The plugin is working.
+
+I'm annoyed.
+And things aren't working.
+I'll come back to this later. I'm glad to have made SOME progress.
 
