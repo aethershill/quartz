@@ -3,10 +3,10 @@ title: Financial Goals
 creation date: 2023-11-03
 tags:
   - ideas/sprout
+modified: 2024-10-08T12:19:22-07:00
+created: 2023-11-28T04:27:09-08:00
 ---
-Emergency Fund - $6,000 
-Guesstimate for 3 month emergency fund
-To be saved in HYSA, (Apple is 4.15% APY) consider finding better account. If better account is found, keep $2000 in Apple HYSA for 1 month EF, 5 month EF in higher interest rate account.
+[[Emergency Fund]]
 
 $1000 for plane ticket so someone can get my Koseki for me.
 

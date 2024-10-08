@@ -5,7 +5,7 @@ tags:
   - Varietal
   - brand
   - beverage
-  - Country/France
+  - Earth/Europe/France
   - Bartending/Alcohol/Wine
 ---
 A legal meaning. Must meet stringent standards to use the name as it's protected from use outside the region.

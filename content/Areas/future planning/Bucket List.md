@@ -4,6 +4,8 @@ creation date: 2023-11-08
 tags:
   - list
   - ideas/sprout
+modified: 2024-10-08T11:30:22-07:00
+created: 2024-04-16T13:50:45-07:00
 ---
 ## Africa
 
@@ -12,24 +14,26 @@ tags:
 ## Asia
 
 ## Central America
-Skydive into the Great Blue Hole and immediately swap into Scuba Diving #Country/Belize #Hobby/Sport/Scuba #Hobby/Sport/Skydiving
+Skydive into the Great Blue Hole and immediately swap into Scuba Diving #Earth/CentralAmerica/Belize #Hobby/Sport/Scuba #Hobby/Sport/Skydiving
 
 ## Europe
-La Tomatina (Tomato Festival) #Country/Spain/Buñol #Calendar/Month/August
-Running of the Bulls #Country/Spain #Calendar/Month/July #Pamplona
+La Tomatina (Tomato Festival) #Earth/Europe/Spain/Buñol #Calendar/Month/August
+Running of the Bulls #Earth/Europe/Spain #Calendar/Month/July #Pamplona
 
 ## Middle East
-Christmas in Bethlehem #Holiday/Christmas #middleeast #Country/Palestine
+Christmas in Bethlehem #Holiday/Christmas #middleeast #Earth/MiddleEast/Palestine
 
 ## North America
-Mountain Bike in Alaska #Country/USA/Alaska #Hobby/Sport/Biking/Mountain
-Spit off the top of the Empire State building #Country/USA/NewYork/NYC
-Surf in Alaska #Country/USA/Alaska   #Hobby/Sport/Surf 
-Party in Hawaii (or anywhere) on a beach with a red harvest moon #Country/USA/Hawaii #Party #RedHarvestMoon #Moon #Beach
+Mountain Bike in Alaska #Earth/NorthAmerica/USA/Alaska #Hobby/Sport/Biking/Mountain
+Spit off the top of the Empire State building #Earth/NorthAmerica/USA/NewYork/NYC
+Surf in Alaska #Earth/NorthAmerica/USA/Alaska   #Hobby/Sport/Surf 
+Party in Hawaii (or anywhere) on a beach with a red harvest moon #Earth/NorthAmerica/USA/Hawaii #Party #RedHarvestMoon #Moon #Beach
 
 ## South America
 
 ## Activities
+Disaster Relief Volunteering
+Glacial Paddleboarding #Hobby/Sport/PaddleBoard
 [[HeliSki]] #Hobby/Sport/Snow/Skiing/Heli
 [[Kite Surf]]  #Hobby/Sport/Surf/Kite
 Kite Board  #Hobby/Sport/Snow/Snowboarding

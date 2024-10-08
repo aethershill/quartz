@@ -1,11 +1,13 @@
 ---
 title: Booklist
 creation date: 2023-10-20
-tags:
+tags: 
+modified: 2024-10-08T11:30:37-07:00
+created: 2024-10-04T10:08:40-07:00
 ---
 ### Currently Reading:
 Fiction:
-The Martian
+
 
 Nonfiction:
 Sapiens: a brief history of humankind
@@ -26,6 +28,7 @@ Antifragile
 Neval rabikaan - the almanac of neval ravikaant
 
 Books -
+48 Laws of Power
 Ego Is The Enemy by Ryan Holiday
 Can't Hurt Me by David Goggins
 _Middlemarch_ by George Eliot
@@ -68,4 +71,5 @@ Poetry -
 [[Man's Search for Meaning]] - Viktor E. Frankl
 Ready Player One
 [[The Joy Of Mixology]]
+The Martian
 [[The Power of Moments]]

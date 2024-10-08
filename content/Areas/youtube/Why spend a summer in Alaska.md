@@ -2,7 +2,7 @@
 title: Why Summer in Alaska
 creation date: 2024-03-15
 tags:
-  - Country/USA/Alaska
+  - Earth/NorthAmerica/USA/Alaska
   - youtube/draft
   - ideas/sprout
 ---
