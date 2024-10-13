@@ -2,6 +2,8 @@
 title: What to wear as a lifty
 tags:
   - LiftOperations
+modified: 2024-10-13T14:36:28-07:00
+created: 2023-11-28T03:52:55-08:00
 ---
 # What to wear
 ## Clothing Material
