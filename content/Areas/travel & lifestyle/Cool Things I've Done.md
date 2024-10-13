@@ -1,8 +1,7 @@
 ---
 title: Cool Things I've Done
-creation date: 2023-11-08
-modified:
-  - 2024-10-03T22:49:32-07:00
+modified: 2024-10-08T12:24:01-07:00
+created: 2024-10-03T22:49:32-07:00
 ---
 
 Night surf in PB #Hobby/Sport/Surf 

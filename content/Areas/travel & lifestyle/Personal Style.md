@@ -1,8 +1,9 @@
 ---
 title: Personal Style
-creation date: 2024-07-09
 tags:
   - ideas/seed
+modified: 2024-10-08T12:23:50-07:00
+created: 2024-07-09T09:51:40-07:00
 ---
 ## Clothing Styles - 
 [Basic](https://www.reddit.com/r/malefashionadvice/comments/5da1dc/the_basic_bastard_basic_wardrobe_and_inspiration/?share_id=gzWA9D6NIwRQPHW0HfFd6&utm_content=2&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=1)

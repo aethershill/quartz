@@ -3,8 +3,9 @@ title: Winter 2023-2024
 creation date: 2024-04-15
 tags:
   - Bartending
-  - ideas/sprout
   - Blog/In-Progress
+modified: 2024-10-12T11:06:23-07:00
+created: 2024-04-15T02:26:22-07:00
 ---
 A good friend of mine suggested I apply for this restaurant for the Winter.
 She had actually recommended I apply a year ago, but sadly things didn't pan out that season. Housing and the job opportunity I had mainly applied for didn't pan out the way I wanted. 

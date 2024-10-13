@@ -1,7 +1,7 @@
 ---
 title: Suggestions
-modified: 2024-10-08T12:14:06-07:00
-created: 2024-10-07T16:38:14-07:00
+modified: 2024-10-08T12:23:44-07:00
+created: 2024-10-08T12:14:06-07:00
 ---
 ## Activities
 Tiger Muy Thai/Fitness/Yoga - $6-8k for training, room, and board for 6 months #Earth/Asia/Thailand #Hobby/Fitness/Yoga 

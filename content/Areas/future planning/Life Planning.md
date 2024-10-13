@@ -1,12 +1,11 @@
 ---
 title: Goals
-creation date: 2024-08-16
 tags:
   - ideas/seed
-modified: 2024-10-07T19:27:09-07:00
+modified: 2024-10-10T11:28:33-07:00
 created: 2024-08-16T03:28:45-07:00
 ---
-## Financials
+}|## Financials
 - 6 Month Emergency Fund
 - $500,000 Invested by age 35
 ## Hobbies

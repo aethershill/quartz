@@ -42,6 +42,7 @@ Learn the Violin #Hobby/Music/Instrument
 Learn the Piano #Hobby/Music/Instrument
 Release a song on Spotify #Hobby/Music
 Sex underneath the Northern Lights #AuroraBorealis #NorthernLights
+Surf underneath the Northern Lights #Hobby/Sport/Surf #NorthernLights #AuroraBorealis 
 [Snowboarding](Areas/snowboarding/_index.md) #Hobby/Sport/Snow/Snowboarding 
 Snowskate #Hobby/Sport/Snow/Snowboarding/Skate
 Surf where there's ice #Hobby/Sport/Surf #Ice

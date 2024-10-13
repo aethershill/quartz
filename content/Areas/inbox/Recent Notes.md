@@ -1,11 +1,9 @@
 ---
 title: Recent Notes
-creation date: 2024-01-26
-modified:
-  - 2024-10-03T22:58:23-07:00
-  - 2024-10-03T23:21:43-07:00
+modified: 2024-10-13T14:23:34-07:00
 tags:
   - system
+created: 2024-10-03T23:21:43-07:00
 ---
 ```dataview
 LIST

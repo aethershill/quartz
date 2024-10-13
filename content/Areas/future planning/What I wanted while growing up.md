@@ -1,6 +1,6 @@
 ---
 title: What I wanted while growing up
-modified: 2024-10-07T17:09:12-07:00
+modified: 2024-10-10T11:26:39-07:00
 created: 2024-10-03T23:15:49-07:00
 tags:
   - ideas/sprout
@@ -46,3 +46,4 @@ One day on a whim I decided to write down everything that came to mind in refere
 - Build a Community
 - Get Fit
 - Tiny Home
+- Run a book store/coffee shop with a hostel/apartments for travelers upstairs. Offering the opportunity to do a work exchange for accommodation.

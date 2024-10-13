@@ -46,13 +46,13 @@ Save the Cat! (Storytelling book)
 You are a badass
 The Magician by Feist
 _Everything Sad Is Untrue_ by Daniel Nayeri
-East of Eden
 A monster calls
 The Name of the Wind by Patrick Rothfuss (recommended by bob)
 Roundbuilding (Bartending book)
 The moustache
 The posthumous memoirs of bras cubas
 As i lay dying - faulkner
+Sticky idea
 
 
 Series -

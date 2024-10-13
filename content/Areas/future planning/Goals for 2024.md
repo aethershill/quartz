@@ -1,8 +1,9 @@
 ---
 title: Goals for 2024
-creation date: 2024-02-25
 tags:
   - ideas/sprout
+modified: 2024-10-08T12:23:29-07:00
+created: 2024-04-13T21:00:11-07:00
 ---
 # Content Creation -
 Post 3+ YouTube videos on Stoicism/Seasonal Work
