@@ -1,8 +1,9 @@
 ---
 title: Plan for after summer season ends
-creation date: 
 tags:
   - ideas/sprout
+modified: 2024-10-13T16:02:10-07:00
+created: 2024-03-22T17:33:47-07:00
 ---
 
 Steamboat Nov 22?

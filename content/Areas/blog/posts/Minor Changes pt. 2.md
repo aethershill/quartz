@@ -1,6 +1,6 @@
 ---
-title: Minor Changers pt. 2
-modified: 2024-10-13T15:03:30-07:00
+title: Minor Changes pt. 2
+modified: 2024-10-13T16:02:42-07:00
 created: 2024-10-13T14:59:47-07:00
 ---
 ## To Summarize

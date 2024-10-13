@@ -1,6 +1,6 @@
 ---
 title: Minor Changes (Or Headaches)
-modified: 2024-10-13T14:59:56-07:00
+modified: 2024-10-13T16:02:47-07:00
 created: 2024-10-07T16:33:54-07:00
 ---
 Tending to the garden that I've been neglecting for the summer. 
