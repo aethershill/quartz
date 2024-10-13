@@ -1,9 +1,10 @@
 ---
 title: Life as a Lifty
-creation date: 2024-03-01
 tags:
   - youtube/draft
   - ideas/seed
+modified: 2024-10-13T14:53:09-07:00
+created: 2024-03-06T18:59:26-08:00
 ---
 - Low pay
 - Lots of riding

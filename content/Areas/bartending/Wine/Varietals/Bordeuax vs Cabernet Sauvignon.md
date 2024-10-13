@@ -1,10 +1,11 @@
 ---
 title: Bordeuax vs Cabernet Sauvignon
-creation date: 2023-11-07
 tags:
   - Varietal
   - beverage
   - Bartending/Alcohol/Wine/Varietal
+modified: 2024-10-13T14:42:34-07:00
+created: 2023-12-03T20:56:33-08:00
 ---
 
 A [[Bordeaux]] can be a [[Cabernet Sauvignon]] but a Cab Sauv is not often a Bordeaux. 

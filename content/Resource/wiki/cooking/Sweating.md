@@ -1,15 +1,15 @@
 ---
 title: Sweating
-creation date: 2024-08-15
 aliases:
   - Sweat
   - Soffritto
 tags:
   - Hobby/Cooking/Techniques
+modified: 2024-10-13T14:54:03-07:00
+created: 2024-08-15T02:52:32-07:00
 ---
 # Why
 Sweating softens and releases flavors using moisture and low temperature.
-
 # How 
 Covering the pan and heating over low temperature with frequent stirring.
 

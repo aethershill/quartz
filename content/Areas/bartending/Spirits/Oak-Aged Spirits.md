@@ -1,11 +1,12 @@
 ---
 title: Oak Aged Spirits
-creation date: 2023-11-26
 aliases:
   - Oak-Aging
   - Oak Aging
   - Oak Aged
   - Oak-Aged
+modified: 2024-10-13T14:41:12-07:00
+created: 2023-12-01T06:42:59-08:00
 ---
 Oak [[maturation]] adds both color and aroma to a [[spirit]]. After maturation the spirit can be sweetened or have it's [alcoholic strength](Areas/bartending/ABV) adjusted.
 ## Colour  

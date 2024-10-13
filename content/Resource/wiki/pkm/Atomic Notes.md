@@ -1,8 +1,9 @@
 ---
 title: Atomic Notes
-creation date: 2024-04-18
 tags:
   - ideas/seed
+modified: 2024-10-13T14:54:39-07:00
+created: 2024-04-18T00:05:52-07:00
 ---
 Atomic Notes are singular ideas or concept(s) that can be read without referring to anything else.
 

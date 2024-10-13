@@ -1,6 +1,7 @@
 ---
 title: Processing Raw Materials
-creation date: 2023-11-26
+modified: 2024-10-13T14:41:20-07:00
+created: 2023-11-26T18:22:15-08:00
 ---
 The aim of processing a raw material is to create a sugary liquid for [[Fermentation]].
 

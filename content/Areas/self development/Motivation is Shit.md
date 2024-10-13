@@ -3,7 +3,10 @@ title: Motivation is Shit
 tags:
   - Blog/In-Progress
   - ideas/sprout
+modified: 2024-10-13T14:51:46-07:00
+created: 2023-11-28T04:20:41-08:00
 ---
+
 This is an idea that has resonated with me since (at least) high school.
 
 Motivation is shit. Often times, I bring this up and lot of people will do their best to defend motivation.

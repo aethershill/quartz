@@ -1,6 +1,7 @@
 ---
 title: Post Distillation
-creation date: 2023-11-26
+modified: 2024-10-13T14:41:15-07:00
+created: 2023-11-26T21:18:16-08:00
 ---
 Newly made [spirits](Areas/bartending/Spirits/spirit) are colorless and dry as they have no sugar. 
 After [Distillation](Areas/bartending/Spirits/Distillation.md), the main aim is to adjust the color, aroma, sweetness, and alcoholic strength as required by the style of spirit being made.

@@ -1,8 +1,9 @@
 ---
 title: FoH Supervisor notes
-creation date: 2023-09-26
 tags:
   - ideas/sprout
+modified: 2024-10-13T14:51:35-07:00
+created: 2023-11-28T04:20:26-08:00
 ---
 
 Your job is to support, train, delegate and make sure standards are being maintained. Hold everybody accountable, don't be the cool manager that turns a blind eye to things, especially for the firsts 3-6 months. Then after that you can start to loosen up, trust me its easier to be the strict manager and loosen up than it is to be the loose manager then have to become the strict manager.

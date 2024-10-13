@@ -1,6 +1,7 @@
 ---
 title: Fermentation
-creation date: 2023-11-09
+modified: 2024-10-13T14:40:59-07:00
+created: 2023-11-26T21:02:41-08:00
 ---
 *Summary: The process by which yeast converts sugar into [Ethanol](Areas/bartending/Ethanol.md), heat and CO2.*
 

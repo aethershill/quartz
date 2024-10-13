@@ -1,6 +1,7 @@
 ---
 title: Letter XVI
-creation date: 2024-02-11
+modified: 2024-10-13T14:50:55-07:00
+created: 2024-02-11T00:21:19-08:00
 ---
 	 "If you shape your life according to nature, you will never be poor; if according other people's opinions, you will never be rich." - Epicurus
 

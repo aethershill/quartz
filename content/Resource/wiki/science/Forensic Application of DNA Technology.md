@@ -1,8 +1,9 @@
 ---
 title: Forensic Application of DNA Technology
-creation date: 2023-11-24
 tags:
   - ideas/sprout
+modified: 2024-10-13T14:57:25-07:00
+created: 2023-11-28T04:24:39-08:00
 ---
 
 Classic fingerprinting - 

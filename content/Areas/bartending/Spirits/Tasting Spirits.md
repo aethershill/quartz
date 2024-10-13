@@ -1,6 +1,7 @@
 ---
 title: Tasting Spirits
-creation date: 2023-12-01
+modified: 2024-10-13T14:41:24-07:00
+created: 2023-12-01T06:40:52-08:00
 ---
 
 # WSET  System to Tasting Spirits

@@ -1,8 +1,9 @@
 ---
 title: 9 Attributes
-creation date: 2023-11-08
 tags:
   - Bartending/Alcohol/Wine
+modified: 2024-10-13T14:42:40-07:00
+created: 2023-12-03T20:56:00-08:00
 ---
 
 ### Distinctiveness - 

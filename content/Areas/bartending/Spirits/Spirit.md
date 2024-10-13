@@ -1,8 +1,9 @@
 ---
 title: Spirit
-creation date: 2023-11-26
 aliases:
   - Spirits
+modified: 2024-10-13T14:41:22-07:00
+created: 2023-11-26T21:14:53-08:00
 ---
 A [[Spirit]] is an alcoholic beverage that has been [Distilled](Areas/bartending/Spirits/Distillation.md) to increase alcoholic strength. 
 

@@ -1,6 +1,7 @@
 ---
 title: Winter 2024 Shopping List
-creation date: 2024-07-09
+modified: 2024-10-13T14:53:04-07:00
+created: 2024-08-15T02:54:36-07:00
 ---
 
 # Clothes

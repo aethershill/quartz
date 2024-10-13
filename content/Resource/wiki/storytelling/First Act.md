@@ -1,8 +1,9 @@
 ---
 title: First Act
-creation date: 2023-10-24
 tags:
   - ideas/sprout
+modified: 2024-10-13T14:57:43-07:00
+created: 2023-11-28T04:23:59-08:00
 ---
 Also known as the opening narration. 
 

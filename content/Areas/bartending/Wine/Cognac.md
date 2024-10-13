@@ -1,9 +1,10 @@
 ---
 title: Cognac
-creation date: 2023-11-26
 tags:
   - Spirits
   - alcohol
+modified: 2024-10-13T14:42:47-07:00
+created: 2023-12-01T06:26:01-08:00
 ---
 From southwest France, Cognac is known as the best [Brandy](Areas/bartending/Wine/Brandy.md).
 ## Processing

@@ -1,6 +1,7 @@
 ---
 title: Vodka with some character
-creation date: 2023-12-01
+modified: 2024-10-13T14:41:32-07:00
+created: 2023-12-01T06:26:39-08:00
 ---
 
 Some [Vodka](Areas/bartending/Spirits/Vodka.md) retains a little character.

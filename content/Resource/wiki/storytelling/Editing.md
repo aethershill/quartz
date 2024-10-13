@@ -1,8 +1,9 @@
 ---
 title: Editing
-creation date: 2023-10-29
 tags:
   - ideas/sprout
+modified: 2024-10-13T14:57:40-07:00
+created: 2023-11-28T04:23:54-08:00
 ---
 `"Editing is structure, color, dynamis, manipulation of time, all of these other things, etc., etc." In the Blink of an Eye - 2nd Edition (Murch, 2001)`
 

@@ -1,8 +1,7 @@
 ---
 title: Reference Notes
-creation date: 2024-04-18
 tags:
   - ideas/seed
-modified:
-  - 2024-09-24T16:05:39-05:00
+modified: 2024-10-13T14:55:04-07:00
+created: 2024-09-24T14:05:39-07:00
 ---

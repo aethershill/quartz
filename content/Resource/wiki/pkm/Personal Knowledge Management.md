@@ -1,8 +1,9 @@
 ---
 title: Personal Knowledge Management
-creation date: 2023-11-28
 tags:
   - ideas/sprout
+modified: 2024-10-13T14:54:59-07:00
+created: 2024-04-18T04:40:36-07:00
 ---
 A combination of [[Resource/wiki/pkm/Personal Information Management|Personal Information Management]](PIM) and [[Resource/wiki/pkm/Knowledge Management|Knowledge Management]](KM).
 

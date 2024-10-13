@@ -1,6 +1,7 @@
 ---
 title: 1792 Full Proof
-creation date: 2023-12-03
+modified: 2024-10-13T14:41:51-07:00
+created: 2023-12-03T18:40:11-08:00
 ---
 1792 Full Proof has gone through a distinct filtering process. Instead of the usual [[chill filtration]] it passes through a [[plate and frame filter]]. 
 

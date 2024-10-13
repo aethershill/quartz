@@ -1,8 +1,9 @@
 ---
 title: Molecular Medicine Forensics
-creation date: 2023-11-24
 tags:
   - ideas/sprout
+modified: 2024-10-13T14:57:31-07:00
+created: 2023-11-28T04:24:35-08:00
 ---
 ### Molecular Basis of Disease
 Molecular medicine exame the origin and course of illness andd disease and how they can be prevent and treated. 

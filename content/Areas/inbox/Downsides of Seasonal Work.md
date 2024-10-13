@@ -1,8 +1,9 @@
 ---
 title: Downsides of Seasonal Work
-creation date: 2024-04-22
 tags:
   - ideas/sprout
+modified: 2024-10-13T14:46:41-07:00
+created: 2024-07-08T04:30:41-07:00
 ---
 
 - Constantly Moving (Moving 2-3 times a year).

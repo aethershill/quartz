@@ -1,9 +1,10 @@
 ---
 title: Grapes
-creation date: 2023-11-07
 tags:
   - grapes
   - Bartending/Wine
+modified: 2024-10-13T14:42:22-07:00
+created: 2023-12-03T20:56:49-08:00
 ---
 ### Makeup of a Grape - 
 A grape is a berry that is 75% pulp, 20% skin, and 5% seeds. 

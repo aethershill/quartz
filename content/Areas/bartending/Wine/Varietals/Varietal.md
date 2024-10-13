@@ -1,9 +1,10 @@
 ---
 title: Varietal
-creation date: 2023-11-07
 tags:
   - beverage
   - Bartending/Alcohol/Wine/Varietal
+modified: 2024-10-13T14:42:37-07:00
+created: 2023-12-03T20:57:14-08:00
 ---
 Term to describe a [[wine]] made of exclusively, or dominated by, one grape.
 

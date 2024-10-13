@@ -1,8 +1,9 @@
 ---
 title: Wine Varietals
-creation date: 2023-11-07
 aliases:
   - wines
+modified: 2024-10-13T14:43:07-07:00
+created: 2023-11-26T18:52:18-08:00
 ---
 Wines are a drink made of [[Grapes]]. More specifically, the wine itself is made of the pulp of grapes. 
 

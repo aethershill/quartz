@@ -1,12 +1,13 @@
 ---
 title: Bourbon
-creation date: 2023-11-09
 tags:
   - liquor
   - drinks
   - beverage
   - Bartending/Alcohol/Spirits/Whiskey
   - Bartending/Alcohol/Spirits/Whisky
+modified: 2024-10-13T14:41:53-07:00
+created: 2023-12-03T21:23:27-08:00
 ---
 
 This is the broadest category with the most stylistic variations.

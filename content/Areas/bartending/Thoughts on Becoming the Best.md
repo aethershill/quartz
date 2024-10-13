@@ -1,8 +1,9 @@
 ---
 title: Thoughts on Becoming the Best
-creation date: 2024-04-17
 tags:
   - ideas/seed
+modified: 2024-10-13T14:43:35-07:00
+created: 2024-06-17T18:18:44-07:00
 ---
 I've recently recommitted to the idea of become the world's best bartender overall. 
 I want to be more than proficient in all skillsets. 

@@ -1,9 +1,10 @@
 ---
 title: Van Life Build
-creation date: 2023-11-03
 tags:
   - VanLife
   - ideas/sprout
+modified: 2024-10-13T14:52:58-07:00
+created: 2024-08-17T13:22:33-07:00
 ---
 https://www.youtube.com/watch?v=yXqrLcRuurs
 

@@ -1,8 +1,7 @@
 ---
 title: Booklist
-creation date: 2023-10-20
 tags: 
-modified: 2024-10-08T11:30:37-07:00
+modified: 2024-10-13T14:51:02-07:00
 created: 2024-10-04T10:08:40-07:00
 ---
 ### Currently Reading:

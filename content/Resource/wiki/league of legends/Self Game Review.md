@@ -1,6 +1,7 @@
 ---
 title: Self Game Review
-creation date: 2024-02-04
+modified: 2024-10-13T14:54:17-07:00
+created: 2024-02-04T22:58:03-08:00
 ---
 
 

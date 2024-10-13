@@ -1,8 +1,10 @@
 ---
 title: Slowing Down the Passage of Time
-creation date: 2024-07-12
 tags:
   - ideas/seed
+draft: "true"
+modified: 2024-10-13T14:49:17-07:00
+created: 2024-07-12T05:28:15-07:00
 ---
 reference: [[The Power of Moments]]
 

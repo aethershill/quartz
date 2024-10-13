@@ -1,6 +1,5 @@
 ---
 title: Whiskey
-creation date: 2023-11-09
 aliases:
   - whisky
 tags:
@@ -9,6 +8,8 @@ tags:
   - beverage
   - Bartending/Alcohol/Spirits/Whiskey
   - Bartending/Alcohol/Spirits/Whisky
+modified: 2024-10-13T14:42:11-07:00
+created: 2023-12-03T21:23:58-08:00
 ---
 Whiskey is made of [Grains](Areas/bartending/Grains.md)
 The most important ones are:

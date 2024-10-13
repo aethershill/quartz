@@ -1,8 +1,9 @@
 ---
 title: Literature Notes
-creation date: 2024-04-18
 tags:
   - ideas/sprout
+modified: 2024-10-13T14:54:44-07:00
+created: 2024-04-18T04:59:10-07:00
 ---
 Literature notes are the comments we make on texts we've decided to highlight or mark down.
 ## Should Do:

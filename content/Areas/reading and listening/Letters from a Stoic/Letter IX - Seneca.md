@@ -1,6 +1,7 @@
 ---
 title: Letter IX - Seneca
-creation date: 2024-01-26
+modified: 2024-10-13T14:50:52-07:00
+created: 2024-01-26T21:37:48-08:00
 ---
 The basic idea Seneca explains here is that a wise man is content with himself. And therefore needs no friends, or rather needs nothing except himself. Despite this, the wise man still desires things but does not "value" what can be taken away.
 

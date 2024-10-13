@@ -1,9 +1,10 @@
 ---
 title: Updating...
-creation date: 2023-10-05
 tags:
   - Blog
   - Blog/Published
+modified: 2024-10-13T14:44:40-07:00
+created: 2023-11-28T03:58:28-08:00
 ---
 
 Updating my Garden is a little bit of a pain. 

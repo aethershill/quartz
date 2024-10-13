@@ -1,8 +1,9 @@
 ---
 title: Three Part Narrative
-creation date: 2023-10-24
 tags:
   - ideas/sprout
+modified: 2024-10-13T14:57:48-07:00
+created: 2023-11-28T04:24:09-08:00
 ---
 
 Also known as "three act structure." Is a model that divides the story into 3 parts (or acts). 

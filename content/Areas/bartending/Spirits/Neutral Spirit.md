@@ -1,8 +1,9 @@
 ---
 title: Neutral Spirit
-creation date: 2023-12-01
 aliases:
   - Neutral
+modified: 2024-10-13T14:41:06-07:00
+created: 2023-12-01T06:24:14-08:00
 ---
 
 A neutral spirit must be distilled to a strength of at least 95% [ABV](Areas/bartending/ABV.md) or 96%.

@@ -1,8 +1,9 @@
 ---
 title: Meal Prep
-creation date: 2024-03-17
 tags:
   - ideas/seed
+modified: 2024-10-13T14:50:35-07:00
+created: 2024-03-17T13:36:33-07:00
 ---
 Ideal weight: 164lbs. @ 15% bodyfat
 # Calories

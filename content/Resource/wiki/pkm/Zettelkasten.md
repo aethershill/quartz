@@ -1,8 +1,9 @@
 ---
 title: Zetelkasten
-creation date: 2024-04-18
 tags:
   - ideas/seed
+modified: 2024-10-13T14:55:13-07:00
+created: 2024-04-18T04:47:49-07:00
 ---
 # What is a Zettelkasten?
 Zettelkasten is an organization system for knowledge while working (studying/researching).

@@ -1,6 +1,7 @@
 ---
 title: New World
-creation date: 2023-11-07
+modified: 2024-10-13T14:42:57-07:00
+created: 2023-11-26T18:49:18-08:00
 ---
 
 New World regions are areas that adopted practices from the [[Old World]] regions to create their own industries. 

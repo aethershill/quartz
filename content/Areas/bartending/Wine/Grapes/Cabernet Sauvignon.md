@@ -1,9 +1,10 @@
 ---
 title: Cabernet Sauvignon
-creation date: 2023-11-07
 tags:
   - grapes
   - Bartending/Alcohol/Wine/Varietal
+modified: 2024-10-13T14:42:20-07:00
+created: 2023-12-03T20:56:41-08:00
 ---
 One of the most recognized [Grapes](Areas/bartending/Wine/Grapes/Grapes.md) in the world. 
 Can be found in [wines](Areas/bartending/Wine/Wine.md) from many places, Australia, South America, Napa, etc. 

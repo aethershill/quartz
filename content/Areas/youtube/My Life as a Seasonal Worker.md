@@ -1,9 +1,10 @@
 ---
 title: My Life as a Seasonal Worker
-creation date: 2024-03-09
 tags:
   - ideas/seed
   - youtube/draft
+modified: 2024-10-13T14:53:14-07:00
+created: 2024-03-09T13:32:44-08:00
 ---
 I've been a self proclaimed Hobo for about 2 years now.
 No. I'm not homeless.

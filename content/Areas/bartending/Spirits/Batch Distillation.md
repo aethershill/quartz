@@ -1,6 +1,7 @@
 ---
 title: Batch Distillation
-creation date: 2023-11-26
+modified: 2024-10-13T14:40:47-07:00
+created: 2023-11-26T21:02:24-08:00
 ---
 [Pot Still](Areas/bartending/Spirits/Pot%20Stills.md) [Distillation](Areas/bartending/Spirits/Distillation.md) is a batch process. 
 The still has to be emptied and cleaned after every distillation. Pot stills can't be operated continuously.

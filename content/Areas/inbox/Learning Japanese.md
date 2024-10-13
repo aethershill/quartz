@@ -1,8 +1,9 @@
 ---
 title: Learning Japanese
-creation date: 2024-08-03
 tags:
   - ideas/sprout
+modified: 2024-10-13T14:48:05-07:00
+created: 2024-08-03T16:15:41-07:00
 ---
 At 2k words if you begin immersion you can pick out words in sentences. You will have to look up a word in almost every sentence and often multiple words per sentence.
 

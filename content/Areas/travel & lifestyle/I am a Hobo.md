@@ -1,10 +1,11 @@
 ---
 title: I am a Hobo
-creation date: 2023-10-23
 tags:
   - Blog/In-Progress
   - Blog
   - ideas/seed
+modified: 2024-10-13T14:52:39-07:00
+created: 2023-11-28T04:09:47-08:00
 ---
 It was always the expectation that I would go to Harvard or Stanford. 
 

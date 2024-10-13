@@ -1,6 +1,7 @@
 ---
 title: Distillation
-creation date: 2023-11-26
+modified: 2024-10-13T14:40:57-07:00
+created: 2023-12-01T06:19:57-08:00
 ---
 Distillation concentrates the level of [Ethanol](Areas/bartending/Ethanol.md) in alcoholic liquid after [Fermentation](Areas/bartending/Spirits/Fermentation.md).
 This is the stage that creates a [[Spirit]].

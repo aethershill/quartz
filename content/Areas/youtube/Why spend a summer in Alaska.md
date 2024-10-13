@@ -1,10 +1,11 @@
 ---
 title: Why Summer in Alaska
-creation date: 2024-03-15
 tags:
   - Earth/NorthAmerica/USA/Alaska
   - youtube/draft
   - ideas/sprout
+modified: 2024-10-13T14:53:20-07:00
+created: 2024-10-08T11:51:08-07:00
 ---
 Alaska, is probably my favorite place in the world. For now.
 Here is a few reasons, not listed in any particular order, of why you should spend a Summer in Alaska (or otherwise just visit).

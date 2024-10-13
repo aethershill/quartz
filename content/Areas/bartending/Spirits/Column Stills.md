@@ -1,6 +1,7 @@
 ---
 title: Column Stills
-creation date: 2023-11-26
+modified: 2024-10-13T14:40:52-07:00
+created: 2023-12-01T06:21:13-08:00
 ---
 Overview: 
 - [Distillations](Areas/bartending/Spirits/Distillation.md) happen at the same time, one on top of the other. 

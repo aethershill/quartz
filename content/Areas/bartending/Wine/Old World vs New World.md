@@ -1,6 +1,7 @@
 ---
 title: Old World vs New World
-creation date: 2023-11-07
+modified: 2024-10-13T14:43:02-07:00
+created: 2023-11-26T18:48:42-08:00
 ---
 
 [[Old World]] wines are lighter-bodied, lower in alcohol, and brighter acidity.

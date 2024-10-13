@@ -1,12 +1,13 @@
 ---
 title: Bordeaux
-creation date: 2023-11-07
 tags:
   - Varietal
   - brand
   - beverage
   - Earth/Europe/France
   - Bartending/Alcohol/Wine
+modified: 2024-10-13T14:42:32-07:00
+created: 2024-10-08T11:49:39-07:00
 ---
 A legal meaning. Must meet stringent standards to use the name as it's protected from use outside the region.
 

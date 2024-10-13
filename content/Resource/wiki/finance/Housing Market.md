@@ -1,8 +1,9 @@
 ---
 title: Untitled 2
-creation date: 2024-04-14
 tags:
   - ideas/sprout
+modified: 2024-10-13T14:54:10-07:00
+created: 2024-04-16T23:34:25-07:00
 ---
 https://www.youtube.com/watch?v=raHYdN3t5vk
 

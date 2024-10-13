@@ -1,10 +1,9 @@
 ---
 title: Bucket List
-creation date: 2023-11-08
 tags:
   - list
   - ideas/sprout
-modified: 2024-10-08T11:30:22-07:00
+modified: 2024-10-13T14:44:44-07:00
 created: 2024-04-16T13:50:45-07:00
 ---
 ## Africa

@@ -1,8 +1,9 @@
 ---
 title: Pot Stills
-creation date: 2023-11-26
 aliases:
   - Pot Still
+modified: 2024-10-13T14:41:17-07:00
+created: 2023-12-01T06:08:22-08:00
 ---
 A pot still is made up of a pot with a heat source, a condenser with a coolant, and tubing that links the two.
 

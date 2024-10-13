@@ -1,8 +1,9 @@
 ---
 title: Letter III - Seneca
-creation date: 2024-01-25
 tags:
   - ideas/sprout
+modified: 2024-10-13T14:50:40-07:00
+created: 2024-01-26T20:55:48-08:00
 ---
 
 # My Takeaways - 

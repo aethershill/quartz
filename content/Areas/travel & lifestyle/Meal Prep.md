@@ -1,8 +1,9 @@
 ---
 title: Meal Prep
-creation date: 2023-11-28
 tags:
   - ideas/seed
+modified: 2024-10-13T14:52:42-07:00
+created: 2024-08-15T02:49:56-07:00
 ---
 Pork Chops - 
 $5 pork chops

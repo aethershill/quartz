@@ -1,9 +1,10 @@
 ---
 title: Scope
-creation date: 2023-11-28
 tags:
   - Blog/In-Progress
   - ideas/seed
+modified: 2024-10-13T14:51:50-07:00
+created: 2023-11-28T04:09:56-08:00
 ---
 
 I just finished a phone interview for my winter job, and the person I spoke to asked a question about what motivates me to come in to work with a positive attitude. 

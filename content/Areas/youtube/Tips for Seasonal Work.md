@@ -1,9 +1,10 @@
 ---
 title: Tips for Seasonal Work
-creation date: 2024-03-01
 tags:
   - ideas/seed
   - youtube/draft
+modified: 2024-10-13T14:53:18-07:00
+created: 2024-03-01T22:02:07-08:00
 ---
 
 # 1 - Start Early

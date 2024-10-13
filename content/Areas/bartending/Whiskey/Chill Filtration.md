@@ -1,6 +1,7 @@
 ---
 title: Chill Filtration
-creation date: 2023-12-03
+modified: 2024-10-13T14:41:56-07:00
+created: 2023-12-03T18:47:52-08:00
 ---
 Chill filtration is performed by lowering the temperature of the [whisky](Areas/bartending/Whiskey/Whiskey.md) to several degrees below freezing.
 

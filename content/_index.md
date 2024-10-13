@@ -1,10 +1,9 @@
 ---
 title: Memento Nori
 enableToc: true
-modified:
-  - 2024-09-24T16:13:47-05:00
+modified: 2024-10-13T14:58:39-07:00
+created: 2024-09-24T14:14:06-07:00
 ---
-
 I've always been enamored by the idea of having my own personal website. 
 Never quite knowing what to do with one, I'd always wasted time and procrastinated the idea. 
 
@@ -14,8 +13,6 @@ Closely related is a rabbit whole of productivity/systems like [[Resource/wiki/p
 As such, here lies the beginning of my personal wiki. The place where all of the knowledge and experience I have and will continue to accumulate.
 
 [Blog](Areas/blog/posts/)
-[[Recent Notes]]
-
 ## Map of Content -
 | Categories                                                       | Topics                                                                                                                                                       |
 | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |

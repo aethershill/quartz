@@ -1,6 +1,7 @@
 ---
 title: Alcohol (Wine)
-creation date: 2023-11-08
+modified: 2024-10-13T14:42:43-07:00
+created: 2023-11-26T19:31:50-08:00
 ---
 [Alcohol](Areas/bartending/Alcohol.md) occurs in [Wine](Areas/bartending/Wine/Wine.md) due to yeasts. 
 

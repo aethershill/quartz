@@ -1,6 +1,7 @@
 ---
 title: Old World
-creation date: 2023-11-07
+modified: 2024-10-13T14:42:59-07:00
+created: 2023-11-26T18:49:10-08:00
 ---
 Old World regions are found in Europe, North Africa, and the Middle East.
 

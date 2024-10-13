@@ -1,9 +1,8 @@
 ---
 title: Financial Goals
-creation date: 2023-11-03
 tags:
   - ideas/sprout
-modified: 2024-10-08T12:19:22-07:00
+modified: 2024-10-13T14:52:35-07:00
 created: 2023-11-28T04:27:09-08:00
 ---
 [[Emergency Fund]]

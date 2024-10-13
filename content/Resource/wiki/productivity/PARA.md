@@ -1,10 +1,10 @@
 ---
 title: PARA
-creation date: 2023-11-28
 tags:
   - ideas/sprout
+modified: 2024-10-13T14:57:16-07:00
+created: 2023-11-28T04:25:05-08:00
 ---
-
 PARA stands for:
 	Project
 	Area

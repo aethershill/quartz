@@ -1,8 +1,9 @@
 ---
 title: Snippet
-creation date: 2023-09-01
 tags:
   - ideas/sprout
+modified: 2024-10-13T14:49:21-07:00
+created: 2023-11-29T04:55:49-08:00
 ---
 
 What Orwell feared were those who would ban books. What Huxley feared was that there would be no reason to ban a book, for there would be no one who wanted to read one. Orwell feared those who would deprive us of information. Huxley feared those who would give us so much that we would be reduced to passivity and egoism. Orwell feared that the truth would be concealed from us. Huxley feared the truth would be drowned in a sea of irrelevance. Orwell feared we would become a captive culture. Huxley feared we would become a trivial culture, preoccupied with some equivalent of the feelies, the orgy porgy, and the centrifugal bumblepuppy.

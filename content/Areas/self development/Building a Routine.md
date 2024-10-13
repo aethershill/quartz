@@ -1,8 +1,9 @@
 ---
 title: Building a Routine
-creation date: 2023-10-22
 tags:
   - ideas/seed
+modified: 2024-10-13T14:51:32-07:00
+created: 2023-12-01T06:48:30-08:00
 ---
 # Getting Started
 When creating a daily routine, the spruce, recommends creating a list of everything that needs to get done. 

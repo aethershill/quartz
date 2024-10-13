@@ -1,7 +1,8 @@
 ---
 title: Spaghetti
-creation date: 2024-08-15
-tags:
+tags: 
+modified: 2024-10-13T14:53:44-07:00
+created: 2024-08-15T02:48:59-07:00
 ---
 # Ingredients
 1 lb. Ground beef
