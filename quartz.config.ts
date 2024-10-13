@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     baseUrl: "mementonori.co",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "**/templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
