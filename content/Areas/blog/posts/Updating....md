@@ -1,13 +1,10 @@
 ---
 title: Updating...
-tags:
-  - Blog
-  - Blog/Published
-modified: 2024-10-13T14:44:40-07:00
+tags: []
+modified: 2024-10-13T17:17:36-07:00
 created: 2023-11-28T03:58:28-08:00
 ---
-
-Updating my Garden is a little bit of a pain. 
+Updating my [garden](Resource/wiki/web%20design/Digital%20Garden) is a little bit of a pain. 
 
 I've added a lot of one off ideas in my inbox but fell behind on maintenance/updates for [Quartz](Resource/wiki/web%20design/Quartz.md). 
 While I was "distracted," Quartz 4.0 was released and I felt it was probably best to stay up to date.
@@ -18,10 +15,10 @@ I'm still learning quite a bit and attempting to follow the [Migration Guide](ht
 I had no motivation towards troubleshooting this, so I opted for a fresh install and copied my content over. 
 I'm not sure what kind of repercussions this will have, I assume it will mostly be configuration but that will be seen.
 
-All that I was learning with Hugo is no longer necessary. 
+All that I was learning with [[Hugo]] is no longer necessary. 
 Hugo was removed which is fine, this will give me the opportunity to learn Node(?). 
 
-One of such issues was the solution to creating a Blog page that I detailed in [Structuring the Garden](Areas/blog/posts/Structuring%20the%20Garden.md) no longer works. It looks like a simple fix though, linking to the /posts/ subfolder seems to generate an index without being specified. 
+One of such issues was the solution to creating a [Blog](Areas/blog/posts/) page that I detailed in [Structuring the Garden](Areas/blog/posts/Structuring%20the%20Garden.md) no longer works. It looks like a simple fix though, linking to the /posts/ subfolder seems to generate an index without being specified. 
 
 10/22/23 - 
 Coming back to things I've realized a few things.

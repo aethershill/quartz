@@ -1,9 +1,10 @@
 ---
 title: Memento Nori
 enableToc: true
-modified: 2024-10-13T16:13:56-07:00
+modified: 2024-10-13T17:28:24-07:00
 created: 2024-09-24T14:14:06-07:00
 ---
+# Why?
 I've always been enamored by the idea of having my own personal website. 
 Never quite knowing what to do with one, I've wasted time on half-assed attempts and procrastinated. 
 
@@ -14,6 +15,8 @@ As such, here lies the beginning of my personal wiki.
 
 The place for all knowledge and experience I have and will accumulate.
 
+[[Who am I?]]
+
 [Blog](Areas/blog/posts/)
 ## Map of Content -
 | Categories                                                       | Topics                                                                                                                                                       |
@@ -22,7 +25,7 @@ The place for all knowledge and experience I have and will accumulate.
 | [Inbox](/Areas/inbox/_index)                                     |                                                                                                                                                              |
 | [Personal Knowledge Management](Resource/wiki/pkm/_index.md)     | [Second Brain](Resource/wiki/pkm/Second%20Brain.md), [Taxonomies](Resource/wiki/pkm/Taxonomies.md)                                                           |
 | [Productivity](Resource/wiki/productivity/_index.md)             | [PARA](Resource/wiki/productivity/PARA.md)                                                                                                                   |
-| [Reading & Listening](Areas/reading%20and%20listening/_index.md) |                                                                                                                                                              |
+| [Reading & Listening](Areas/reading%20and%20listening/_index.md) | [[Booklist]]                                                                                                                                                 |
 | [Self Development](Areas/self%20development/_index.md)           |                                                                                                                                                              |
 | [Storytelling](Resource/wiki/storytelling/_index.md)             |                                                                                                                                                              |
 | [Web Design](Resource/wiki/web%20design/_index.md)               | [Digital Garden](Resource/wiki/web%20design/Digital%20Garden.md), [Hugo](Resource/wiki/web%20design/Hugo.md), [Quartz](Resource/wiki/web%20design/Quartz.md) |

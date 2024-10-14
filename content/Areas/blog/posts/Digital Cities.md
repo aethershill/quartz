@@ -1,9 +1,7 @@
 ---
 title: Digital Cities
-tags:
-  - Blog
-  - Blog/Published
-modified: 2024-10-13T14:43:51-07:00
+tags: []
+modified: 2024-10-13T17:10:56-07:00
 created: 2023-11-28T03:58:40-08:00
 ---
 Growing up, I had an idea for a website. 

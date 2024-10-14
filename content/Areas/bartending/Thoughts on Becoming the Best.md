@@ -33,6 +33,6 @@ I have a lot of studying to do.
 [Japanese Hard Shake](Areas/bartending/Techniques/Japanese%20Hard%20Shake.md)
 ### Wine
 [Wine](Areas/bartending/Wine/Wine.md)
-[The Wine Bible](Areas/reading%20and%20listening/The%20Wine%20Bible.md)
+[The Wine Bible](The%20Wine%20Bible.md)
 
 

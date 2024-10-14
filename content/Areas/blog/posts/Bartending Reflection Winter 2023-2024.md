@@ -2,8 +2,7 @@
 title: Winter 2023-2024
 tags:
   - Bartending
-  - Blog/In-Progress
-modified: 2024-10-13T14:43:44-07:00
+modified: 2024-10-13T17:09:56-07:00
 created: 2024-04-15T02:26:22-07:00
 ---
 A good friend of mine suggested I apply for this restaurant for the Winter.

@@ -1,19 +1,16 @@
 ---
 title: Structuring the Garden
 enableToc: true
-tags:
-  - Blog
-  - Blog/Published
-modified: 2024-10-07T16:42:05-07:00
+tags: []
+modified: 2024-10-13T17:12:05-07:00
 created: 2024-04-16T23:36:38-07:00
 ---
 ## First Thoughts
 Some of my first thoughts on how I want this to look:
 
-I really like the Map of Content from https://www.ssp.sh/brain// so figuring out how to do something similar would be ideal. 
+I really like the Map of Content from https://www.ssp.sh/brain// so figuring out how to do something similars would be ideal. 
 
 I also want to include a blog hyperlink in the header, to make it easier to access. 
-
 In order to do these two things, I need to figure out how to properly customize/format inside of [[Areas/blog/posts/Humble Beginnings|Humble Beginnings]]/[[Resource/wiki/web design/Quartz|Quartz]]. I believe this requires me to learn more about [[Resource/wiki/web design/Hugo|Hugo]]?
 
 Currently reading: https://gohugo.io/content-management/taxonomies/ on [[Resource/wiki/pkm/Taxonomies|Taxonomies]]. 

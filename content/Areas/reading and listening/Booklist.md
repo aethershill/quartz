@@ -1,7 +1,7 @@
 ---
 title: Booklist
 tags: 
-modified: 2024-10-13T14:51:02-07:00
+modified: 2024-10-13T17:29:01-07:00
 created: 2024-10-04T10:08:40-07:00
 ---
 ### Currently Reading:
@@ -9,8 +9,10 @@ Fiction:
 
 
 Nonfiction:
+[[How Not to Die Alone]]
 Sapiens: a brief history of humankind
-[[The Art of Focus]] - 
+[[The Art of Focus]] 
+
 
 ### Shelved: 
 [[East of Eden]] - Steinbeck
@@ -66,6 +68,8 @@ Poetry -
 
 ### Read:
 1984 - George Orwell
+[[Assassin's Apprenctice]] - Robin Hobb
+[[Cat's Cradle]] - Kurt Vonnegut
 [[In the Blink of an Eye]] by Walter Murch
 [[Man's Search for Meaning]] - Viktor E. Frankl
 Ready Player One

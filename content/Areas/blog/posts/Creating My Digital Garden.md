@@ -2,8 +2,7 @@
 title: Creating My Digital Garden
 tags:
   - Blog
-  - Blog/Published
-modified: 2024-10-13T14:43:47-07:00
+modified: 2024-10-13T17:08:36-07:00
 created: 2023-11-28T03:58:43-08:00
 ---
 I've always wanted to have a personal website. Never really knew what its purpose would be but I've always wanted to have one. 
