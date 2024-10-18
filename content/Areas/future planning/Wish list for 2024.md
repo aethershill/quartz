@@ -3,7 +3,7 @@ title: Wish list for 2024
 tags:
   - list
   - ideas/sprout
-modified: 2024-10-13T14:45:00-07:00
+modified: 2024-10-13T17:41:51-07:00
 created: 2024-07-16T12:04:45-07:00
 ---
 *In case of multiple choices, * means first

@@ -3,7 +3,7 @@ title: Bucket List
 tags:
   - list
   - ideas/sprout
-modified: 2024-10-13T14:44:44-07:00
+modified: 2024-10-16T11:16:53-07:00
 created: 2024-04-16T13:50:45-07:00
 ---
 ## Africa
@@ -51,4 +51,5 @@ Certified Cicerone  #Hobby #Bartending/Alcohol/Beer #Certifications/Cicerone
 Scuba Certification #Hobby/Sport/Scuba  #Certification
 Sommelier #Certifications/Sommelier #Certification #Bartending/Wine #Hobby
 Skydive Certification #Hobby/Sport/Skydive  #certification
+[PHD](Path%20to%20Mental%20Health%20Specialist%20for%20Adolescents)
 Pilots License #Hobby/Sport/Pilot
