@@ -1,0 +1,18 @@
+---
+title: Batch Distillation
+modified: 2024-10-13T14:40:47-07:00
+created: 2023-11-26T21:02:24-08:00
+---
+[Pot Still](Pot%20Stills.md) [Distillation](Distillation.md) is a batch process. 
+The still has to be emptied and cleaned after every distillation. Pot stills can't be operated continuously.
+In a pot still, it's not possible to make a spirit with just on distillation. 
+Most distillers, who use pot stills, distill twice to create a spirit. (Double pot still distillation).
+
+* figure out how to use mermaid for graph*
+
+Fermented alcohol liquid (about 10% [[ABV]]) -first distillation-> product of 1st distillation (about 25% abv) -second distillation-> newly made spirit (about 75% abv).
+
+Spirits made in pot stills are relatively low strenght with medium to pronounced aroma instensity and a lot of complexity and character.
+
+Pot stills cannot make really high-strength spirits (spirits with an abv of 90% or more). 
+Demand for a still that could operate continuously and make high-strength spirits required a [completely new still design](.

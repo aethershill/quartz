@@ -1,8 +1,8 @@
 ---
 title: Goals
 tags:
-  - ideas/seed
-modified: 2024-10-13T14:59:40-07:00
+  - ideas/sprout
+modified: 2024-11-02T20:07:27-06:00
 created: 2024-08-16T03:28:45-07:00
 ---
 ## Financials

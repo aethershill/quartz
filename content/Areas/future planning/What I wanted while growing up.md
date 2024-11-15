@@ -1,6 +1,6 @@
 ---
 title: What I wanted while growing up
-modified: 2024-10-10T11:26:39-07:00
+modified: 2024-10-23T01:50:12-07:00
 created: 2024-10-03T23:15:49-07:00
 tags:
   - ideas/sprout
@@ -38,7 +38,7 @@ One day on a whim I decided to write down everything that came to mind in refere
 - Live/Starve in NYC
 - Les Paul Guitar
 - Play Tennis
-- Become a Mental Health Specialist for Adolescents
+- [Become a Mental Health Specialist for Adolescents](Path%20to%20Mental%20Health%20Specialist.md)
 - Own a Grand Piano
 - Be a drummer
 - Minimalism

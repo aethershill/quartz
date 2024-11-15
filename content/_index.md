@@ -21,7 +21,7 @@ The place for all knowledge and experience I have and will accumulate.
 ## Map of Content -
 | Categories                                                       | Topics                                                                                                                                                       |
 | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Bartending](Areas/bartending/_index.md)                         | [Spirits](Areas/bartending/Spirits/Spirit.md), [[Wine]], [whisky](Areas/bartending/Whiskey/Whiskey.md)                                                       |
+| [Bartending](Resource/wiki/bartending/_index.md)                         | [Spirits](Spirit.md), [[Wine]], [whisky](Whiskey.md)                                                       |
 | [Inbox](/Areas/inbox/_index)                                     |                                                                                                                                                              |
 | [Personal Knowledge Management](Resource/wiki/pkm/_index.md)     | [Second Brain](Resource/wiki/pkm/Second%20Brain.md), [Taxonomies](Resource/wiki/pkm/Taxonomies.md)                                                           |
 | [Productivity](Resource/wiki/productivity/_index.md)             | [PARA](Resource/wiki/productivity/PARA.md)                                                                                                                   |

@@ -1,7 +1,7 @@
 ---
 title: Spaghetti
 tags: 
-modified: 2024-10-13T14:53:44-07:00
+modified: 2024-11-10T12:39:05-07:00
 created: 2024-08-15T02:48:59-07:00
 ---
 # Ingredients
@@ -15,6 +15,6 @@ Vegetable oil
 - Dice garlic and onion
 - [Sweat](Resource/wiki/cooking/Sweating.md) onions
 - A little bit before onions are ready, add garlic (don't burn the garlic)
-- Add ground beef to brown over medium heat.
+- Add ground beef to brown over medium heat. Season to taste
 - Drain grease/oil
 - Add prego pasta sauce to simmer/heat sauce.

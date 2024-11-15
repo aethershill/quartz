@@ -3,17 +3,15 @@ title: Seasonal Work
 tags:
   - youtube/draft
   - ideas/seed
-modified: 2024-10-13T14:53:16-07:00
+modified: 2024-10-23T12:12:49-07:00
 created: 2024-03-02T10:57:03-08:00
 ---
 # 1 - Housing
 ## (Pro) Roommates
 When the stars align and you get good roommates, they become friends for life. Or at the very least become sources of good memories.
 Roommates also offset the cost of living making things a little cheaper.
-
 ## (Con) Roommates
 When the stars don't align, they can become a nightmare.
-
 ## (Pro) Housing
 The cheap/subsidized housing can get you into high demand areas so you can make good money or do the things you want. 
 ## (Con) Housing

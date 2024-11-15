@@ -2,11 +2,11 @@
 title: Molecular Medicine Forensics
 tags:
   - ideas/sprout
-modified: 2024-10-13T14:57:31-07:00
+modified: 2024-10-23T01:47:37-07:00
 created: 2023-11-28T04:24:35-08:00
 ---
 ### Molecular Basis of Disease
-Molecular medicine exame the origin and course of illness andd disease and how they can be prevent and treated. 
+Molecular medicine examines the origin and course of illness and disease and how they can be prevent and treated. 
 
 Genetic -
 inherited failure in one or more components
@@ -18,9 +18,9 @@ Smoking
 Alcohol Consumption
 
 Environmental - 
-Infextions, toxic substances, physical forces
+Infections, toxic substances, physical forces
 
-When all 3 factors contribute to disease, the overlap may vary in each case of a dise.
+When all 3 factors contribute to disease, the overlap may vary in each case of a disease.
 
 Genetic Disorders -
 - Single Gene Disorders
@@ -32,7 +32,7 @@ Genetic Disorders -
 - Mitochondrial Disorders
 
 ### Some monogenic Recessive Disorders
-A single gene change causes these recessive disores
+A single gene change causes these recessive disorders
 
 | Disease | Frequence | Symptoms |
 | ---- | ---- | ---- |

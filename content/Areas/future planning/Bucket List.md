@@ -3,7 +3,7 @@ title: Bucket List
 tags:
   - list
   - ideas/sprout
-modified: 2024-10-16T11:16:53-07:00
+modified: 2024-10-30T22:44:30-06:00
 created: 2024-04-16T13:50:45-07:00
 ---
 ## Africa
@@ -31,6 +31,7 @@ Party in Hawaii (or anywhere) on a beach with a red harvest moon #Earth/NorthAme
 ## South America
 
 ## Activities
+Develop Ski Magic Carpet Video Game #Hobby/Sport/Skiing #Hobby/Gaming 
 Disaster Relief Volunteering
 Glacial Paddleboarding #Hobby/Sport/PaddleBoard
 [[HeliSki]] #Hobby/Sport/Snow/Skiing/Heli
@@ -40,6 +41,7 @@ Learn how to Skate/Do Tricks #Hobby/Sport/Skate
 Learn the Violin #Hobby/Music/Instrument
 Learn the Piano #Hobby/Music/Instrument
 Release a song on Spotify #Hobby/Music
+Sand Surf #Hobby/Sport/Surf/Sand 
 Sex underneath the Northern Lights #AuroraBorealis #NorthernLights
 Surf underneath the Northern Lights #Hobby/Sport/Surf #NorthernLights #AuroraBorealis 
 [Snowboarding](Areas/snowboarding/_index.md) #Hobby/Sport/Snow/Snowboarding 
@@ -51,5 +53,5 @@ Certified Cicerone  #Hobby #Bartending/Alcohol/Beer #Certifications/Cicerone
 Scuba Certification #Hobby/Sport/Scuba  #Certification
 Sommelier #Certifications/Sommelier #Certification #Bartending/Wine #Hobby
 Skydive Certification #Hobby/Sport/Skydive  #certification
-[PHD](Path%20to%20Mental%20Health%20Specialist%20for%20Adolescents)
+[PHD](Path%20to%20Mental%20Health%20Specialist.md)
 Pilots License #Hobby/Sport/Pilot

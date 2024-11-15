@@ -1,7 +1,7 @@
 ---
 title: Booklist
 tags: 
-modified: 2024-10-13T17:29:01-07:00
+modified: 2024-10-30T22:36:51-06:00
 created: 2024-10-04T10:08:40-07:00
 ---
 ### Currently Reading:
@@ -53,7 +53,27 @@ Roundbuilding (Bartending book)
 The moustache
 The posthumous memoirs of bras cubas
 As i lay dying - faulkner
-Sticky idea
+Sticky ideas
+Zen and the art of motorcycle maintenance
+Sticky ideas
+The gift of therapy by Irvin yalom
+Behave by Robert Sapolsky
+“Trauma: A Social Theory” by Jeffrey Alexander
+Occurence at Owl Creek Bridge - Ambrose Bierce
+Democracy in America -Alexis de Tocqueville
+Moby Dick
+Huckleberry FInn
+A farewell to Arms
+The Scarlet Letter
+The Red Badge of Courage
+The Iliad
+The Oddysey
+Crime and Punishment
+The Bible
+The Charge of the Light Brigade
+Show Your Work
+Fig Tree Poem
+Isaac Babel
 
 
 Series -

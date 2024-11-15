@@ -12,7 +12,7 @@ Zettelkasten is an organization system for knowledge while working (studying/res
 Zettelkasten is a German word, translating to "note box."
 
 Zettel is a slip of paper or a note.
-Kasten is box. In this case, the box is an organized filing system that keeps like minded [[Notes]] grouped/categorized in one place.
+Kasten is box. In this case, the box is an organized filing system that keeps like minded [[Resource/wiki/pkm/Notes]] grouped/categorized in one place.
 
 ## Structure:
 A Zettelkasten is made up of 3 types of notes:
