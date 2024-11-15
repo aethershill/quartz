@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     baseUrl: "mementonori.co",
-    ignorePatterns: ["**/private", "**/templates", ".obsidian"],
+    ignorePatterns: ["private", "**/templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
@@ -27,11 +27,11 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#C3B1E1",
-          lightgray: "#CCCCFF",
-          gray: "#CCCCFF",
-          darkgray: "#BDB5D5",
-          dark: "#FFFFFF",
+          light: "#faf8f8",
+          lightgray: "#e5e5e5",
+          gray: "#b8b8b8",
+          darkgray: "#4e4e4e",
+          dark: "#2b2b2b",
           secondary: "#284b63",
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
