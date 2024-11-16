@@ -1,7 +1,7 @@
 ---
 title: Memento Nori
-enableToc: true
-modified: 2024-10-13T17:28:24-07:00
+enableToc: false
+modified: 2024-11-15T19:57:09-07:00
 created: 2024-09-24T14:14:06-07:00
 ---
 # Why?
